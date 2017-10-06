@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 9c1ec20a141bec841b9c254909ef9527
+timeCreated: 1491999751
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - logo: {fileID: 2800000, guid: 54038f9078ddd8f4ba54dc27af9e1b88, type: 3}
+  - baseTexture: {instanceID: 0}
+  - preview: {instanceID: 0}
+  - albedo: {instanceID: 0}
+  - height: {instanceID: 0}
+  - normal: {instanceID: 0}
+  - occlusion: {instanceID: 0}
+  - metallic: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
